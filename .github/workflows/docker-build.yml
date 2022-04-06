@@ -23,4 +23,4 @@ jobs:
         file: ./Dockerfile
         platforms: linux/amd64
         push: true
-        tags: poocongonlen/ourauserbot:buster
+        tags: poocongonlen/poconguserbot:buster
